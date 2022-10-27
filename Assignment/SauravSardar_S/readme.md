@@ -1,1 +1,20 @@
-Souravsardar
+NAME : Sourav Sardar
+
+ROLLNO : 410619104037
+
+EMAIL :souravsardar0012@gmail.com
+
+MOBILE NUMBER : 8972500273
+
+GENDER : MALE
+
+DATE OF BIRTH : 15-11-2000
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
+
